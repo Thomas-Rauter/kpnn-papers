@@ -24,7 +24,7 @@ Over the past years, a growing number of high-impact publications have explored 
 
 -   [**Pickering, 2025**](https://doi.org/10.48550/arXiv.2510.14970) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Biology-informed neural networks learn nonlinear representations from omics data to improve genomic prediction and interpretability*. arXiv.
-    
+
 -   [**Joshi, 2025**](10.1016/j.jare.2024.07.036) ![Article](https://img.shields.io/badge/type-article-blue)\
     *IRnet: Immunotherapy response prediction using pathway knowledge-informed graph neural network*. Journal of Advanced Research.
 
@@ -42,19 +42,19 @@ Over the past years, a growing number of high-impact publications have explored 
 
 -   [**Chen, 2024**](https://doi.org/10.1093/bib/bbae384) ![Article](https://img.shields.io/badge/type-article-blue)\
     *BioM2: biologically informed multi-stage machine learning for phenotype prediction using omics data*. Briefings in Bioinformatics.
-    
+
 -   [**McWeeney, 2024**](10.1101/2024.02.28.582164) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Graph Structured Neural Networks for Perturbation Biology*. bioRxiv.
-    
+
 -   [**Yang, 2024**](10.1016/j.csbj.2024.07.019) ![Article](https://img.shields.io/badge/type-article-blue)\
     *An interpretable survival model for diffuse large B-cell lymphoma patients using a biologically informed visible neural network*. Computational and Structural Biotechnology Journal.
-    
+
 -   [**Liu, 2024**](10.1093/bib/bbae184) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Prior knowledge-guided multilevel graph neural network for tumor risk prediction and interpretation via multi-omics data integration*. Briefings in Bioinformatics.
-    
+
 -   [**Ideker, 2024**](https://doi.org/10.1038/s43018-024-00740-1) ![Article](https://img.shields.io/badge/type-article-blue)\
     *A deep learning model of tumor cell architecture elucidates response and resistance to CDK4/6 inhibitors*. Nature Cancer.
-    
+
 -   [**Li, 2024**](https://doi.org/10.1038/s41540-024-00421-w) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Using DeepSignalingFlow to mine signaling flows interpreting mechanism of synergy of cocktails*. Systems Biology and Applications.
 
@@ -111,8 +111,8 @@ Over the past years, a growing number of high-impact publications have explored 
 
 -   [**He, 2022**](https://doi.org/10.1093/bioinformatics/btac636) ![Article](https://img.shields.io/badge/type-article-blue)\
     *MPVNN: Mutated Pathway Visible Neural Network for interpretable prediction of cancer survival*. Bioinformatics.
-    
--   [**Wu, 2022**](https://doi.org/10.1155/2022/2965166Digital Object Identifier (DOI)) ![Article](https://img.shields.io/badge/type-article-blue)\
+
+-   [**Wu, 2022**](https://doi.org/10.1155/2022/2965166Digital%20Object%20Identifier) ![Article](https://img.shields.io/badge/type-article-blue)\
     *A Deep Neural Network for Gastric Cancer Prognosis Prediction Based on Biological Information Pathways*. Journal of Oncology.
 
 -   [**Moore, 2022**](https://doi.org/10.1016/j.patter.2022.100565) ![Article](https://img.shields.io/badge/type-article-blue)\
@@ -141,7 +141,7 @@ Over the past years, a growing number of high-impact publications have explored 
 
 -   [**Hanczar, 2021**](10.1186/s12859-021-04370-7) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Deep GONet: self-explainable deep neural network based on Gene Ontology for phenotype prediction from gene expression data*. BMC Bioinformatics.
-    
+
 -   [**Li, 2021**](10.1186/s12859-020-03850-6) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Investigating the relevance of major signaling pathways in cancer survival using a biologically meaningful deep learning model*. BMC Bioinformatics.
 
@@ -153,7 +153,7 @@ Over the past years, a growing number of high-impact publications have explored 
 
 -   [**Ideker, 2020**](10.1016/j.ccell.2020.09.014) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Predicting Drug Response and Synergy Using a Deep Learning Model of Human Cancer Cells*. Cancer Cell.
-    
+
 -   [**Wang, 2021**](https://doi.org/10.1093/bioinformatics/btaa866) ![Article](https://img.shields.io/badge/type-article-blue)\
     *Varmole: a biologically drop-connect deep neural network model for prioritizing disease risk variants and genes*. Bioinformatics.
 
